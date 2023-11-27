@@ -1,1 +1,1 @@
-https://github.com/NataliiaBoiko22/rsschool.cv/blob/gh-pages/cv.md
+https://nataliiaboiko22.github.io/rsschool-cv/
