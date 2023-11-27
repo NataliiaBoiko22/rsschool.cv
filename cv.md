@@ -9,10 +9,10 @@
 
 ## Summary:
 
-_ As a Front End Developer, I am passionate about constantly
+ As a Front End Developer, I am passionate about constantly
  improving my skills and knowledge in the field. My approach to
  development involves a strong focus on achieving results through
- dedicated work and practice._
+ dedicated work and practice.
 
 ## Skills:
 
@@ -52,5 +52,6 @@ currTemp.innerHTML = `${temperature}`;
 
 ## Language:
 
-- English - B2
-- Polish - A1
+- English - Upper-Intermediate
+- Polish - Pre-Intermediate
+- Ukrainian - Native
